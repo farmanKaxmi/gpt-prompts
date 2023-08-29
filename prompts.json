@@ -1,0 +1,20 @@
+{
+    "prompts": [
+        {
+            "promptId": "18a1da21-0c3f-467b-a633-f6f2f6a81968",
+            "prompt": "Which one is best among DynamoDB and MongoDB?"
+        },
+        {
+            "promptId": "ab80ef6a-4a87-45f1-a0f2-3d0e8eae2060",
+            "prompt": "explain solar technology"
+        },
+        {
+            "promptId": "60fb7365-32fb-4a40-93f2-2a3d6c52e766",
+            "prompt": "explain tesla technology in two lines"
+        },
+        {
+            "promptId": "465ee08e-2140-44a5-bda1-d4b75ac5738b",
+            "prompt": "WHo is Elon?"
+        }
+    ]
+}
